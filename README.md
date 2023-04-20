@@ -8,6 +8,7 @@ IDE:Vscode
 In this repository, wer have 2 child project to manipulate the student informations.
 
 1. Frontend
+		
 		This is project to handle the browser views. In this project we have the following technologis and modules
 		
 	Technologies:
