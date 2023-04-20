@@ -12,28 +12,40 @@ In this repository, wer have 2 child project to manipulate the student informati
 		This is project to handle the browser views. In this project we have the following technologis and modules
 		
 	Technologies:
+	
 		1. React Js
+		
 	Modules:
+	
 		1. Search Student
-		2. View All Students
-		3. Add New Student
-		4. Edit Student
-		5. Update Student
-		6. Delete Student
+		2.  View All Students
+		3.  Add New Student
+		4.  Edit Student
+		5.  Update Student
+		6.  Delete Student
+		
 		
 	To run this module, Please refer README.txt in Frontend project.
 	
 2. Server
-		This is project to handle then student informations in server side like MySql. In this project we have the following technologis and Modules
+		
+		This is project to handle then student informations in server side like MySql. In this project we have the following technologis and Modules,
+		
 	Technologies:
+	
 		1. Node Js
 		2. MySQL
+
+
 	Functions:
+	
 		1. Get all the Students
 		2. get by id
 		3. Insert Student
 		4. Update Student
 		5. Delete Student
+
+
 	To run this module, Please refer README.txt in server project.
 	
 Below are the some study links,
